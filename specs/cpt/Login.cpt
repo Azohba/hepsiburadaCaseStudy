@@ -1,0 +1,8 @@
+Login Heading
+
+# Login with <username> <password>
+*Click user icon
+*Click login button
+*Type user <username> and pass <password> info and click login button
+*Check error message "Hoşgeldiniz"
+*Click submit button
